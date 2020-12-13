@@ -1,0 +1,12 @@
+C:\Users\徐宏斌\Desktop\test\test\bin\Debug\dataserver.mdf
+C:\Users\徐宏斌\Desktop\test\test\bin\Debug\dataserver_log.ldf
+C:\Users\徐宏斌\Desktop\test\test\bin\Debug\test.exe.config
+C:\Users\徐宏斌\Desktop\test\test\bin\Debug\test.exe
+C:\Users\徐宏斌\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.Form1.resources
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.exe
+C:\Users\徐宏斌\Desktop\test\test\obj\Debug\test.pdb
